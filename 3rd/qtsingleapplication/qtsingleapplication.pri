@@ -1,2 +1,2 @@
-SOURCES += C:/Users/Emanuele/Documents/DuktoSVN/trunk/src/3rd/qtsingleapplication/qtsingleapplication.cpp C:/Users/Emanuele/Documents/DuktoSVN/trunk/src/3rd/qtsingleapplication/qtlocalpeer.cpp
-HEADERS += C:/Users/Emanuele/Documents/DuktoSVN/trunk/src/3rd/qtsingleapplication/qtsingleapplication.h C:/Users/Emanuele/Documents/DuktoSVN/trunk/src/3rd/qtsingleapplication/qtlocalpeer.h
+SOURCES += D:/Home/Progetti/Dukto/SVN/trunk/src/3rd/qtsingleapplication/qtsingleapplication.cpp D:/Home/Progetti/Dukto/SVN/trunk/src/3rd/qtsingleapplication/qtlocalpeer.cpp
+HEADERS += D:/Home/Progetti/Dukto/SVN/trunk/src/3rd/qtsingleapplication/qtsingleapplication.h D:/Home/Progetti/Dukto/SVN/trunk/src/3rd/qtsingleapplication/qtlocalpeer.h
